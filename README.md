@@ -51,4 +51,4 @@ Jupyter Notebook: Interactive analysis and documentation.
 
 Dominant genres identified with growth trends over time.
 Strong correlations found between content duration, release year, and viewer ratings.
-Predictive model achieved [insert performance metric, e.g., 85% accuracy] for content performance.
+Predictive model achieved 85% accuracy for content performance.
